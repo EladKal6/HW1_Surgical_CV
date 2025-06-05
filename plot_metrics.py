@@ -36,9 +36,5 @@ plot_metric("train/box_loss", "Train Box Loss", "train_box_loss.png")
 plot_metric("val/box_loss",   "Val Box Loss",   "val_box_loss.png")
 plot_metric("metrics/mAP50(B)", "mAP@0.5", "mAP_0.5.png")
 plot_metric("metrics/mAP50-95(B)", "mAP@[.5:.95]", "mAP_0.5_0.95.png")
-<<<<<<< HEAD
 plot_metric("train/mAP50",      "Train mAP@0.5",        "train_mAP_0.5.png")
 plot_metric("train/mAP50-95",   "Train mAP@[.5:.95]",   "train_mAP_0.5_0.95.png")
-=======
->>>>>>> bfe1912eb1cc926ffb2f8eda3fce6f3c7abeb285
-
