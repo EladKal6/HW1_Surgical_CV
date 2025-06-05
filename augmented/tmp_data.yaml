@@ -1,0 +1,7 @@
+train: /home/student/runs/augmented/images/train
+val: /home/student/runs/data/images/val
+nc: 3
+names:
+- class0
+- class1
+- class2
