@@ -1,0 +1,7 @@
+train: runs/augmented/images/train
+val: runs/augmented/images/val
+nc: 3
+names:
+- class0
+- class1
+- class2
