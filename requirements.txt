@@ -1,0 +1,6 @@
+albumentations
+matplotlib
+opencv-python
+pandas
+pyyaml
+ultralytics
