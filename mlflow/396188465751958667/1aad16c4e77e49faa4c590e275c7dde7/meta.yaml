@@ -1,0 +1,15 @@
+artifact_uri: /home/student/runs/mlflow/396188465751958667/1aad16c4e77e49faa4c590e275c7dde7/artifacts
+end_time: 1749155716035
+entry_point_name: ''
+experiment_id: '396188465751958667'
+lifecycle_stage: active
+run_id: 1aad16c4e77e49faa4c590e275c7dde7
+run_name: train_with_tmp_yaml
+run_uuid: 1aad16c4e77e49faa4c590e275c7dde7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749155712635
+status: 3
+tags: []
+user_id: student
